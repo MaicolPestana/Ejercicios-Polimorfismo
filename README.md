@@ -24,3 +24,12 @@ Instanciación y polimorfismo:
 Se crean tres empleados de diferentes tipos: fijo, por horas y temporal.
 Luego, se utiliza polimorfismo para calcular y mostrar el salario de cada uno, llamando al método calcular_salario() de cada objeto, lo que da resultados diferentes según el tipo de empleado.
 En resumen, el código demuestra el uso de la programación orientada a objetos (POO) con conceptos como encapsulamiento, herencia y polimorfismo para modelar y calcular los salarios de diferentes tipos de empleados.
+
+
+#Ejercicio Transporte
+
+El código define una jerarquía de clases para diferentes tipos de transporte: Transporte (base) y sus clases hijas Coche, Avion, y Barco. Cada clase hija sobrescribe el método Tipo_transporte() para devolver un mensaje específico según el tipo de transporte (terrestre, aéreo o marítimo). Luego, se crean instancias de cada tipo de transporte y se imprime el tipo correspondiente.
+
+Este es un transporte Aéreo
+Este es un transporte terrestre
+Este es un transporte Marítimo
