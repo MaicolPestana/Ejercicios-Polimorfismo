@@ -31,5 +31,7 @@ En resumen, el código demuestra el uso de la programación orientada a objetos 
 El código define una jerarquía de clases para diferentes tipos de transporte: Transporte (base) y sus clases hijas Coche, Avion, y Barco. Cada clase hija sobrescribe el método Tipo_transporte() para devolver un mensaje específico según el tipo de transporte (terrestre, aéreo o marítimo). Luego, se crean instancias de cada tipo de transporte y se imprime el tipo correspondiente.
 
 Este es un transporte Aéreo
+
 Este es un transporte terrestre
+
 Este es un transporte Marítimo
